@@ -203,6 +203,7 @@ body, html {
   position: relative;
   overflow: hidden;
   padding: 20px 0;
+  -webkit-app-region: drag;
 }
 
 .editor {
